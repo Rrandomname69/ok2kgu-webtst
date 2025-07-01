@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotogalerie on OK2KGU</title>
+    <link>http://10.24.60.101:1313/fotogalerie/</link>
+    <description>Recent content in Fotogalerie on OK2KGU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <managingEditor>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</managingEditor>
+    <webMaster>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</webMaster>
+    <copyright>© 2025 Radioklub Bílovice nad Svitavou</copyright>
+    <atom:link href="http://10.24.60.101:1313/fotogalerie/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://10.24.60.101:1313/fotogalerie/fotky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
+      <guid>http://10.24.60.101:1313/fotogalerie/fotky/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

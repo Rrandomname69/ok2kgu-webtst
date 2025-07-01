@@ -1,28 +1,28 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "cs"
+languageName = "Česky"
 weight = 1
-title = "Blowfish"
+title = "OK2KGU"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "CS"
+  isoCode = "cs"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  logo = "img/logo.png"
+  secondaryLogo = "img/logo.png"
+  description = "Web Radioklubu Bílovice nad Svitavou"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[params.author]
+  name = "Radioklub Bílovice nad Svitavou"
+  email = "info@ok2kgu.cz"
+  image = "img/logo.png"
+  imageQuality = 100
+#  headline = "CQ CQ"
+#  bio = "Toto je parameter bio"
+  links = [
+   { email = "mailto:info@ok2kgu.cz" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -32,7 +32,7 @@ title = "Blowfish"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-#     { facebook = "https://facebook.com/username" },
+    { facebook = "https://www.facebook.com/people/Radioklub-B%C3%ADlovice-nad-Svitavou/61575805794250/" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },
@@ -70,4 +70,4 @@ title = "Blowfish"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
