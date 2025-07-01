@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ok2kgu-web-tst.idolezel.eu/sitemap.xml
