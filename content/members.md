@@ -7,8 +7,10 @@ showDate: false
 showAuthor: false
 showAuthorBottom: false
 authors:
-  - "ivo"
   - "roman"
+  - "leos"
+  - "milan"
+  - "ivo"
   - "denis"
 showAuthorsBadges : false
 showHero: true

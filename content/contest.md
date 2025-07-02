@@ -7,3 +7,15 @@ showPagination: false
 showHero: true
 heroStyle: background
 ---
+
+Plánovaná účast na závodech:
+
+| Jméno závodu  | Datum závodu UTC| Poznámka |
+| -----         | ---             | ---      |
+| Polní den mládeže | 5.7.2025 10:00 - 5.7.2025 13:00 | účast se bude odvíjet dle přítomnosti členů z řad mládeže |
+| III. subregionální závod - polní den | 5.7.2025 14:00 - 6.7.2025 14:00 |  |
+
+
+Odkazy na závody:
+
+https://ceskyradioklub.cz/zavody/vkv-zavody/vysledky-vkv-zavodu/zavody-na-vkv
