@@ -21,19 +21,24 @@
   weight = 2
 
 [[main]]
+  name = "Závody"
+  pageRef = "contest"
+  weight = 3
+
+[[main]]
   name = "Fotogalerie"
   pageRef = "fotogalerie"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "Členové a Autoři"
   pageRef = "members"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "O nás"
   pageRef = "about"
-  weight = 5
+  weight = 6
 
 #[[main]]
 #  name = "Parent"

@@ -1,0 +1,8 @@
+{
+    "name": "Ivo Doležel",
+    "image" : "img/profilovka.jpg",
+    "bio": "Radioamatér junior, autor článků",
+    "social": [
+        { "email": "ivodolezel1@gmail.com" }
+    ]
+}

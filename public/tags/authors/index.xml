@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on OK2KGU</title>
+    <link>http://10.24.60.101:1313/tags/authors/</link>
+    <description>Recent content in Authors on OK2KGU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs</language>
+    <managingEditor>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</managingEditor>
+    <webMaster>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</webMaster>
+    <copyright>© 2025 Radioklub Bílovice nad Svitavou</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://10.24.60.101:1313/tags/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>http://10.24.60.101:1313/contest/multi-author/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
+      <guid>http://10.24.60.101:1313/contest/multi-author/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
