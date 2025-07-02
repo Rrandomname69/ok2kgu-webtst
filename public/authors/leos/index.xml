@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leos on OK2KGU</title>
-    <link>https://ok2kgu-web-tst.idolezel.eu/authors/leos/</link>
+    <link>http://10.24.60.101:1313/authors/leos/</link>
     <description>Recent content in Leos on OK2KGU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <managingEditor>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</managingEditor>
     <webMaster>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</webMaster>
     <copyright>© 2025 Radioklub Bílovice nad Svitavou</copyright>
-    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ok2kgu-web-tst.idolezel.eu/authors/leos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://10.24.60.101:1313/authors/leos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Autoři a členové klubu</title>
-      <link>https://ok2kgu-web-tst.idolezel.eu/members/</link>
+      <link>http://10.24.60.101:1313/members/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
-      <guid>https://ok2kgu-web-tst.idolezel.eu/members/</guid>
+      <guid>http://10.24.60.101:1313/members/</guid>
       <description></description>
       
     </item>
