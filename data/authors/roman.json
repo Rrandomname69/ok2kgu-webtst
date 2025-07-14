@@ -1,5 +1,8 @@
 {
     "name": "Roman OK3ZR",
     "image" : "img/profilovka_default.jpg",
-    "bio": "Radioamatér, autor článků"
+    "bio": "Konstruktér antén, elektronik",
+    "social": [
+        { "email": "roman.zacek@ok2kgu.cz" }
+    ]
 }

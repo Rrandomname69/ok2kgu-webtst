@@ -1,5 +1,8 @@
 {
-    "name": "Denis Kučera",
+    "name": "Denis",
     "image" : "img/profilovka_default.jpg",
-    "bio": "Radioamatér junior, autor článků"
+    "bio": "Radioamatér junior, elektrotechnik",
+    "social": [
+        { "email": "denis.kucera@ok2kgu.cz" }
+    ]
 }

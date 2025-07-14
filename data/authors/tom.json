@@ -1,0 +1,8 @@
+{
+    "name": "Tom",
+    "image" : "img/profilovka_default.jpg",
+    "bio": "Meshtastick guru",
+    "social": [
+        { "email": "tom.limbus@ok2kgu.cz" }
+    ]
+}

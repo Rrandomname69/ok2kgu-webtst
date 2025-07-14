@@ -26,6 +26,12 @@
   weight = 3
 
 [[main]]
+  name = "Umístění v závodech"
+  parent = "Závody"
+  pageRef = "finished-constests"
+  weight = 2
+
+[[main]]
   name = "Fotogalerie"
   pageRef = "fotogalerie"
   weight = 4

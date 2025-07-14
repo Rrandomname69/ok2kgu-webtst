@@ -2,61 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on OK2KGU</title>
-    <link>http://10.24.60.101:1313/authors/</link>
+    <link>https://ok2kgu-web-tst.idolezel.eu/authors/</link>
     <description>Recent content in Authors on OK2KGU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs</language>
     <managingEditor>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</managingEditor>
     <webMaster>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</webMaster>
     <copyright>© 2025 Radioklub Bílovice nad Svitavou</copyright>
-    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://10.24.60.101:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ok2kgu-web-tst.idolezel.eu/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Denis</title>
-      <link>http://10.24.60.101:1313/authors/denis/</link>
+      <link>https://ok2kgu-web-tst.idolezel.eu/authors/denis/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
-      <guid>http://10.24.60.101:1313/authors/denis/</guid>
+      <guid>https://ok2kgu-web-tst.idolezel.eu/authors/denis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ivo</title>
-      <link>http://10.24.60.101:1313/authors/ivo/</link>
+      <link>https://ok2kgu-web-tst.idolezel.eu/authors/ivo/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
-      <guid>http://10.24.60.101:1313/authors/ivo/</guid>
+      <guid>https://ok2kgu-web-tst.idolezel.eu/authors/ivo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Leos</title>
-      <link>http://10.24.60.101:1313/authors/leos/</link>
+      <link>https://ok2kgu-web-tst.idolezel.eu/authors/leos/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
-      <guid>http://10.24.60.101:1313/authors/leos/</guid>
+      <guid>https://ok2kgu-web-tst.idolezel.eu/authors/leos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Milan</title>
-      <link>http://10.24.60.101:1313/authors/milan/</link>
+      <link>https://ok2kgu-web-tst.idolezel.eu/authors/milan/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
-      <guid>http://10.24.60.101:1313/authors/milan/</guid>
+      <guid>https://ok2kgu-web-tst.idolezel.eu/authors/milan/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Roman</title>
-      <link>http://10.24.60.101:1313/authors/roman/</link>
+      <link>https://ok2kgu-web-tst.idolezel.eu/authors/roman/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
-      <guid>http://10.24.60.101:1313/authors/roman/</guid>
+      <guid>https://ok2kgu-web-tst.idolezel.eu/authors/roman/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tom</title>
+      <link>https://ok2kgu-web-tst.idolezel.eu/authors/tom/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <author>info@ok2kgu.cz (Radioklub Bílovice nad Svitavou)</author>
+      <guid>https://ok2kgu-web-tst.idolezel.eu/authors/tom/</guid>
       <description></description>
       
     </item>

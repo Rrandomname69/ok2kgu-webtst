@@ -1,5 +1,8 @@
 {
     "name": "Milan OK2MB",
     "image" : "img/profilovka_default.jpg",
-    "bio": "Radioamatér, člen klubu"
+    "bio": "Mikrovlny, satelitní komunikace",
+    "social": [
+        { "email": "milan.ohnoutka@ok2kgu.cz" }
+    ]
 }
