@@ -1,0 +1,1 @@
+Omouváme se za barevné schema stránek, schema bude změněno.

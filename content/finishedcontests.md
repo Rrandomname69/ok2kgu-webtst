@@ -12,7 +12,7 @@ Vyhodnocené závody:
 
 | Jméno závodu  | Datum závodu UTC| Umístění |
 | -----         | ---             | ---      |
-| Polní den mládeže | 5.7.2025 10:00 - 5.7.2025 13:00 | účast se bude odvíjet dle přítomnosti členů z řad mládeže |
+| Polní den mládeže | 5.7.2025 10:00 - 5.7.2025 13:00 |  |
 | III. subregionální závod - polní den | 5.7.2025 14:00 - 6.7.2025 14:00 |  |
 
 

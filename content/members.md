@@ -7,6 +7,7 @@ showDate: false
 showAuthor: false
 showAuthorBottom: false
 authors:
+  - "pepa"
   - "roman"
   - "leos"
   - "milan"
